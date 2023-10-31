@@ -1,4 +1,4 @@
-# Qb-Inventory + [UI]
+# qb-Inventory + [UI]
 
 ```
 print ("Dont Forget That All Rights For LXR DEV ! 🧾 ")
